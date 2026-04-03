@@ -46,12 +46,6 @@ Due to GitHub file size limitations, it is hosted externally.
 
 > Compares each producer’s contribution to total ROI.
 
----
-
-### 📉 Investment vs Sales Analysis
-![Investment vs Sales](images/investment_vs_sales.png)
-
-> Highlights that higher investment does not always result in higher sales.
 
 ---
 
