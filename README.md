@@ -105,4 +105,4 @@ This analysis helps businesses optimize promotional strategies by focusing on hi
 
 ---
 
-⭐ This project is part of my Data Analytics portfolio.
+This project is part of my Data Analytics portfolio.
