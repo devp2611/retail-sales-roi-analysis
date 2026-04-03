@@ -70,3 +70,26 @@ You can view the complete project documentation here:
 ---
 
 ## 📂 Project Structure
+retail-sales-roi-analysis/
+│
+├── docs/
+├── images/
+├── tableau/
+├── README.md
+
+---
+
+## 💡 Key Insights
+- ROI varies significantly across producers and categories  
+- Higher investment does not always guarantee higher sales  
+- Some sub-channels show inefficient promotional spending  
+- Market performance is dominated by a few key producers  
+
+---
+
+## 📌 Conclusion
+This analysis helps businesses optimize promotional strategies by focusing on high-performing channels and reducing inefficient investments.
+
+---
+
+⭐ This project is part of my Data Analytics portfolio.
