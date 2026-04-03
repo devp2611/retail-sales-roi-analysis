@@ -12,16 +12,14 @@ This project analyzes retail sales and promotional performance using Tableau to 
 - Provide data-driven business insights  
 
 ---
-
 ## 📁 Dataset
 
 The dataset used in this project contains retail sales and promotion ROI data (2012–2015).
 
 Due to file size limitations, it is not included in this repository.
 
-🔗 **Download Dataset:** 
-[Download Dataset from Google Drive]https://drive.google.com/file/d/1qiUie5zpW_jkDZ934d54CqjYEDO5EFLH/view?usp=sharing
-
+🔗 **Download Dataset:**  
+👉 [Click here to download from Google Drive](https://drive.google.com/file/d/1qiUie5zpW_jkDZ934d54CqjYEDO5EFLH/view?usp=sharing)
 ---
 
 ## 📊 Visualizations
