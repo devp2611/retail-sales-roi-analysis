@@ -70,10 +70,11 @@ You can view the complete project documentation here:
 ---
 
 ## 💡 Key Insights
-- ROI varies significantly across producers and categories  
-- Higher investment does not always guarantee higher sales  
-- Some sub-channels show inefficient promotional spending  
-- Market performance is dominated by a few key producers  
+
+- Promotional investment does not always lead to higher sales  
+- ROI varies significantly across producers and sub-channels  
+- Certain categories show inefficient spending patterns  
+- A few producers dominate overall performance    
 
 ---
 
