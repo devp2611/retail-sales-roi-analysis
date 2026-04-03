@@ -70,12 +70,11 @@ You can view the complete project documentation here:
 ---
 
 ## 📂 Project Structure
-retail-sales-roi-analysis/
-│
-├── docs/
-├── images/
-├── tableau/
-├── README.md
+
+- **docs/** → Project report files (PPT & PDF)  
+- **images/** → Visualization screenshots  
+- **tableau/** → Tableau workbook  
+- **README.md** → Project documentation  
 
 ---
 
